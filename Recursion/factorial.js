@@ -1,3 +1,5 @@
+// Ques - 1 find the factorial of a given number
+
 // Basic factorial question using while loop
 function factorial(number) {
   let sum = 1;
