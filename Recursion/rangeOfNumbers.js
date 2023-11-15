@@ -14,7 +14,6 @@ function rangeOfNumbers(start, end) {
 
 // Solution using recursion
 function rangeOfNumbersRecursion(start, end) {
-    console.log('end: ', end);
   if (end < start) {
     return [];
   } else {
